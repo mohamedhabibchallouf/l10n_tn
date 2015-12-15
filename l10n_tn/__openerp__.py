@@ -3,7 +3,7 @@
 {
     "name" : "Tunisia - Accounting",
     "version" : "1.0",
-    "author" : "SIAT:Mohamed Habib CHALLOUF",
+    "author" : "SIAT:Challouf Mohamed Habib",
     "website": "http://www.siat.com.tn",
     "category" : "Localization/Account Charts",
     "description": """
