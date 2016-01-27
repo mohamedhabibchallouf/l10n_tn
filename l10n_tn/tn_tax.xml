@@ -204,8 +204,8 @@
       <field name="tax_code_id" ref="tax_acq_29"/>
       <field name="tax_sign" eval="-1"/>
 
-      <field name="account_collected_id" ref="account4366600"/>
-      <field name="account_paid_id" ref="account4366600"/>
+      <field name="account_collected_id" ref="account436660"/>
+      <field name="account_paid_id" ref="account436660"/>
 
       <field name="ref_base_code_id" ref="tax_acq_29_ht"/>
       <field name="ref_base_sign" eval="1"/>
@@ -226,8 +226,8 @@
       <field name="tax_code_id" ref="tax_acq_18"/>
       <field name="tax_sign" eval="-1"/>
 
-      <field name="account_collected_id" ref="account4366601"/>
-      <field name="account_paid_id" ref="account4366601"/>
+      <field name="account_collected_id" ref="account436661"/>
+      <field name="account_paid_id" ref="account436661"/>
 
       <field name="ref_base_code_id" ref="tax_acq_18_ht"/>
       <field name="ref_base_sign" eval="1"/>
@@ -248,8 +248,8 @@
       <field name="tax_code_id" ref="tax_acq_12"/>
       <field name="tax_sign" eval="-1"/>
 
-      <field name="account_collected_id" ref="account4366602"/>
-      <field name="account_paid_id" ref="account4366602"/>
+      <field name="account_collected_id" ref="account436662"/>
+      <field name="account_paid_id" ref="account436662"/>
 
       <field name="ref_base_code_id" ref="tax_acq_12_ht"/>
       <field name="ref_base_sign" eval="1"/>
@@ -272,8 +272,8 @@
       <field name="tax_code_id" ref="tax_acq_6"/>
       <field name="tax_sign" eval="-1"/>
 
-      <field name="account_collected_id" ref="account4366603"/>
-      <field name="account_paid_id" ref="account4366603"/>
+      <field name="account_collected_id" ref="account436663"/>
+      <field name="account_paid_id" ref="account436663"/>
 
       <field name="ref_base_code_id" ref="tax_acq_6_ht"/>
       <field name="ref_base_sign" eval="1"/>
@@ -298,8 +298,8 @@
       <field name="base_sign" eval="-1"/>
       <field name="tax_code_id" ref="tax_imm_29"/>
       <field name="tax_sign" eval="-1"/>
-      <field name="account_collected_id" ref="account4366200"/>
-      <field name="account_paid_id" ref="account4366200"/>
+      <field name="account_collected_id" ref="account436620"/>
+      <field name="account_paid_id" ref="account436620"/>
       <field name="ref_base_code_id" ref="tax_imm_29_ht"/>
       <field name="ref_base_sign" eval="1"/>
       <field name="ref_tax_code_id" ref="tax_imm_29"/>
@@ -320,8 +320,8 @@
       <field name="base_sign" eval="-1"/>
       <field name="tax_code_id" ref="tax_imm_18"/>
       <field name="tax_sign" eval="-1"/>
-      <field name="account_collected_id" ref="account4366201"/>
-      <field name="account_paid_id" ref="account4366201"/>
+      <field name="account_collected_id" ref="account436621"/>
+      <field name="account_paid_id" ref="account436621"/>
       <field name="ref_base_code_id" ref="tax_imm_18_ht"/>
       <field name="ref_base_sign" eval="1"/>
       <field name="ref_tax_code_id" ref="tax_imm_18"/>
@@ -343,8 +343,8 @@
       <field name="base_sign" eval="-1"/>
       <field name="tax_code_id" ref="tax_imm_12"/>
       <field name="tax_sign" eval="-1"/>
-      <field name="account_collected_id" ref="account4366202"/>
-      <field name="account_paid_id" ref="account4366202"/>
+      <field name="account_collected_id" ref="account436622"/>
+      <field name="account_paid_id" ref="account436622"/>
       <field name="ref_base_code_id" ref="tax_imm_12_ht"/>
       <field name="ref_base_sign" eval="1"/>
       <field name="ref_tax_code_id" ref="tax_imm_12"/>
@@ -364,8 +364,8 @@
       <field name="base_sign" eval="-1"/>
       <field name="tax_code_id" ref="tax_imm_6"/>
       <field name="tax_sign" eval="-1"/>
-      <field name="account_collected_id" ref="account4366203"/>
-      <field name="account_paid_id" ref="account4366203"/>
+      <field name="account_collected_id" ref="account436623"/>
+      <field name="account_paid_id" ref="account436623"/>
       <field name="ref_base_code_id" ref="tax_imm_6_ht"/>
       <field name="ref_base_sign" eval="1"/>
       <field name="ref_tax_code_id" ref="tax_imm_6"/>

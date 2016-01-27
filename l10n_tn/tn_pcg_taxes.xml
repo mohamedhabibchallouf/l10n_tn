@@ -204,48 +204,22 @@
       <field name="sign">1.00</field>
     </record>
     
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-	
+	<!--
+    #Configuration des parametres par defaut plan comptable
+	 -->	
 	
 	<record id="l10n_tn_pcg_chart_template" model="account.chart.template">
             <field name="name">Plan Comptable General (Tunisie)</field>
             <field name="account_root_id" ref="pcg_0"/>
             <field name="tax_code_root_id" ref="vat_code_chart_root"/>
-            <field name="bank_account_view_id" ref="account532000"/>
-            <!--
-            <field name="property_account_receivable" ref="fr_pcg_recv"/>
-            <field name="property_account_payable" ref="fr_pcg_pay"/>
-            <field name="property_account_expense_categ" ref="pcg_6071"/>
+            <field name="bank_account_view_id" ref="account5321"/>
+            <field name="property_account_receivable" ref="account4111"/>
+            <field name="property_account_payable" ref="account4011"/>
+			<field name="currency_id" ref="base.TND"/>
+			<!--
+            <field name="property_account_expense_categ" ref="account5321"/>
             <field name="property_account_income_categ" ref="pcg_7071"/>
-			-->
+			 -->
         </record>
  </data> 
 </openerp>
